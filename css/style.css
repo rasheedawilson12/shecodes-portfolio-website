@@ -101,3 +101,9 @@ p {
 .app-title {
   margin-bottom: 30px;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 48px;
+  }
+}
